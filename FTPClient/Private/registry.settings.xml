@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<settings>
+  <var name="application_name">FTP Client</var>
+  
+  <var name="control_flow_file">control.settings.xml</var>
+  <!-- relative to main directory path  -->
+  <var name="settings_directory">Private</var>
+  
+  <var name="var2">value3</var>
+</settings>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<control>
+  <commands>
+    
+    <!-- Default views -->
+    <command name="default">
+      <classroot name="Default" />
+      <views>
+        <view>Default</view>
+        <view status="OK">Default</view>
+        <view status="ERROR">Error</view>
+      </views>
+    </command>
+
+    <command name="exit">
+      <classroot name="Exit" />
+      <views>
+        <view>Exit</view>
+      </views>
+    </command>
+
+    <command name="connect">
+      <classroot name="Connect" />
+      <views>
+        <view>Connect</view>
+      </views>
+    </command>
+
+    <command name="cd">
+      <classroot name="ChangeDirectory" />
+      <views>
+        <view>ChangeDirectory</view>
+      </views>
+    </command>
+
+    <command name="pwd">
+      <classroot name="PrintWorkingDirectory" />
+      <views>
+        <view>PrintWorkingDirectory</view>
+      </views>
+    </command>
+
+    <command name="ls">
+      <classroot name="ListDirectory" />
+      <views>
+        <view>ListDirectory</view>
+      </views>
+    </command>
+
+    <command name="mv">
+      <classroot name="Move" />
+      <views>
+        <view>Move</view>
+      </views>
+    </command>
+
+    <command name="mkdir">
+      <classroot name="MakeDirectory" />
+      <views>
+        <view>MakeDirectory</view>
+      </views>
+    </command>
+
+    <command name="rm">
+      <classroot name="Remove" />
+      <views>
+        <view>Remove</view>
+      </views>
+    </command>
+
+    <command name="upload">
+      <classroot name="Upload" />
+      <views>
+        <view>Upload</view>
+      </views>
+    </command>
+
+    <command name="up">
+      <classroot name="Upload" />
+      <views>
+        <view>Upload</view>
+      </views>
+    </command>
+
+    <command name="put">
+      <classroot name="Upload" />
+      <views>
+        <view>Upload</view>
+      </views>
+    </command>
+
+    <command name="download">
+      <classroot name="Download" />
+      <views>
+        <view>Download</view>
+      </views>
+    </command>
+
+    <command name="down">
+      <classroot name="Download" />
+      <views>
+        <view>Download</view>
+      </views>
+    </command>
+
+    <command name="get">
+      <classroot name="Download" />
+      <views>
+        <view>Download</view>
+      </views>
+    </command>
+
+    <command name="set">
+      <classroot name="Set" />
+      <views>
+        <view>Set</view>
+      </views>
+    </command>
+
+  </commands>
+</control>

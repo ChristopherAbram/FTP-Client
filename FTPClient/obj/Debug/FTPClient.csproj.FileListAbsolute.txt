@@ -1,1 +1,6 @@
 G:\Studia\V\TO\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
+G:\Studia\V\TO\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+G:\Studia\V\TO\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+G:\Studia\V\TO\FTPClient\FTPClient\obj\Debug\FTPClient.csprojResolveAssemblyReference.cache
+G:\Studia\V\TO\FTPClient\FTPClient\obj\Debug\FTPClient.exe
+G:\Studia\V\TO\FTPClient\FTPClient\obj\Debug\FTPClient.pdb
