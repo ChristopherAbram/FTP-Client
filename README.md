@@ -1,4 +1,4 @@
-FtpClient CLI is a program to work with FTP server. The program uses passive FTP mode.
+<pre>FtpClient CLI is a program to work with FTP server. The program uses passive FTP mode.
 
 Short help (list of commands):
  pwd                - prints the current working directory
@@ -19,3 +19,4 @@ Short help (list of commands):
                     
  (c) 2017 Krzysztof Abram. 
  All right reserved.
+</pre>
