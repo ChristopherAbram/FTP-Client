@@ -10,7 +10,7 @@ namespace FTPClient.Interpreter
 
     public class Interpreter
     {
-        protected string command_prompt = "ftp> ";
+        protected string command_prompt = "ftp>";
         protected Request _request = new Request();
 
         public void Parse()

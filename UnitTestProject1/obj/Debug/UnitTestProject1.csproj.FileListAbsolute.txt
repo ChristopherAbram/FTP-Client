@@ -1,0 +1,9 @@
+G:\Studia\V\TO\FTPClient\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+G:\Studia\V\TO\FTPClient\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+G:\Studia\V\TO\FTPClient\UnitTestProject1\bin\Debug\FTPClient.exe
+G:\Studia\V\TO\FTPClient\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Studia\V\TO\FTPClient\UnitTestProject1\bin\Debug\FTPClient.pdb
+G:\Studia\V\TO\FTPClient\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\Studia\V\TO\FTPClient\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+G:\Studia\V\TO\FTPClient\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+G:\Studia\V\TO\FTPClient\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

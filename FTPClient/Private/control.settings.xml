@@ -8,8 +8,13 @@
       <classroot name="Default" />
       <views>
         <view>Default</view>
-        <view status="OK">Default</view>
-        <view status="ERROR">Error</view>
+      </views>
+    </command>
+
+    <command name="help">
+      <classroot name="Default" />
+      <views>
+        <view>Default</view>
       </views>
     </command>
 

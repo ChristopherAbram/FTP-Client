@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPClient", "FTPClient.csproj", "{E0B91652-D772-4F8A-B0E2-63117B976715}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "..\UnitTestProject1\UnitTestProject1.csproj", "{8EE27D25-80E2-4626-AE74-43BF23BE4F3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E0B91652-D772-4F8A-B0E2-63117B976715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0B91652-D772-4F8A-B0E2-63117B976715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0B91652-D772-4F8A-B0E2-63117B976715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE27D25-80E2-4626-AE74-43BF23BE4F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE27D25-80E2-4626-AE74-43BF23BE4F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE27D25-80E2-4626-AE74-43BF23BE4F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE27D25-80E2-4626-AE74-43BF23BE4F3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

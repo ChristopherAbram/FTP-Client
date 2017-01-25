@@ -112,7 +112,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Content Include="Private\control.settings.xml" />
     <Content Include="Private\registry.settings.xml" />
